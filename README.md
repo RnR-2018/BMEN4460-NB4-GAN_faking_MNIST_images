@@ -26,11 +26,8 @@ sudo git clone https://github.com/RnR-2018/BMEN4460-NB2-image_classification_on_
 You shall then see the following hierarchy of files and folders, hopefully, which matches the hierarchy of the current repository.
 
 ```
-BMEN4460-NB2-image_classification_on_MNIST_data
-    ├── BMEN4460-NB2-image_classification_on_MNIST_data.ipynb
-    ├── BMEN4460-NB2-image_classification_on_MNIST_data_with_visualization.ipynb
-    └── data
-        └── MNIST_CNN.png
+BMEN4460-NB4-GAN_faking_MNIST_images
+    └── BMEN4460-NB4-GAN_faking_MNIST_images.ipynb
 ```
 
 ## Acknowledgements
