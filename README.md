@@ -1,1 +1,1 @@
-BMEN4460 NB3 GAN faking MNIST images
+# BMEN4460 NB3 GAN faking MNIST images
