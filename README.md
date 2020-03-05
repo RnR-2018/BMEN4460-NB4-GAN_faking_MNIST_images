@@ -23,7 +23,7 @@ git clone https://github.com/RnR-2018/RnR-2018-BMEN4460-NB4-GAN_faking_MNIST_ima
 
 If it says "fatal: could not create work tree dir ...", you may as well try it again with super user permission
 ```
-sudo git clone https://github.com/RnR-2018/BMEN4460-NB2-image_classification_on_MNIST_data/
+sudo git clone https://github.com/RnR-2018/RnR-2018-BMEN4460-NB4-GAN_faking_MNIST_images/
 ```
 
 You shall then see the following hierarchy of files and folders, hopefully, which matches the hierarchy of the current repository.
