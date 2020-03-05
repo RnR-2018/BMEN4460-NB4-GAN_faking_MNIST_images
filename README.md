@@ -33,6 +33,14 @@ BMEN4460-NB4-GAN_faking_MNIST_images
     └── BMEN4460-NB4-GAN_faking_MNIST_images.ipynb
 ```
 
+## Notebook versions.
+### Version 1. BMEN4460-NB4-GAN_faking_MNIST_images.ipynb
+This is the simplest working version. A lot of things are not implemented ideally. For instance:
+1. The loss functions are just Binary Cross-Entropy (BCE) losses for both the generator and discriminator, nothing fancy there. 
+2. The model architectures are feedforward neural networks (FFNNs), not convolutional neural networks (CNNs).
+3. Beyond these, a lot of cool things are not yet implemented.
+Please keep hyped for more versions.
+
 ## Acknowledgements
 This notebook is inspired by [this succinct GitHub repository](https://github.com/lyeoni/pytorch-mnist-GAN) and [this elaborate GitHub repository](https://github.com/Garima13a/MNIST_GAN), neither of which can be directly run/used due to issues with the PyTorch version of the MNIST dataset as well as some weird things with the training processes. Anyway we thank them for the resources, and we especially like the latter who walked through some nice concepts in detail.
 
