@@ -8,7 +8,7 @@ We will update this repository with more detailed explanations and more sophisti
 ### Overview
 This repository is a child repository of [**RnR-2018/Deep-learning-with-PyTorch-and-GCP**](https://github.com/RnR-2018/Deep-learning-with-PyTorch-and-GCP). This serves a primary purpose of facilitating the course BMEN4460 instructed by Dr. Andrew Laine and Dr. Jia Guo at Columbia University. However, it can also be used as a general beginner-level tutorial to implementing deep learning algorithms with PyTorch on Google Cloud Platform.
 
-This repository, [**GAN faking MNIST images**](https://github.com/RnR-2018/RnR-2018-BMEN4460-NB4-GAN_faking_MNIST_images), presents an application of simple generative adverserial networks (GANs) on generating fake images.
+This repository, [**GAN faking MNIST images**](https://github.com/RnR-2018/BMEN4460-NB4-GAN_faking_MNIST_images), presents an application of simple generative adverserial networks (GANs) on generating fake images.
 
 For students in BMEN4460 (or who follow the instructions Step00 through Step02 in the parent repository), please create a Projects folder (if you have not done yet) within your GCP VM and download this repository into that folder.
 
@@ -18,12 +18,12 @@ cd /home/[username]/
 mkdir BMEN4460 # This is only necessary if you have not done this yet
 mkdir BMEN4460/MNIST_GAN # This is only necessary if you have not done this yet
 cd BMEN4460/MNIST_GAN
-git clone https://github.com/RnR-2018/RnR-2018-BMEN4460-NB4-GAN_faking_MNIST_images/
+git clone https://github.com/RnR-2018/BMEN4460-NB4-GAN_faking_MNIST_images/
 ```
 
 If it says "fatal: could not create work tree dir ...", you may as well try it again with super user permission
 ```
-sudo git clone https://github.com/RnR-2018/RnR-2018-BMEN4460-NB4-GAN_faking_MNIST_images/
+sudo git clone https://github.com/RnR-2018/BMEN4460-NB4-GAN_faking_MNIST_images/
 ```
 
 You shall then see the following hierarchy of files and folders, hopefully, which matches the hierarchy of the current repository.
