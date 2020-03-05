@@ -18,7 +18,7 @@ cd /home/[username]/
 mkdir BMEN4460 # This is only necessary if you have not done this yet
 mkdir BMEN4460/MNIST_GAN # This is only necessary if you have not done this yet
 cd BMEN4460/MNIST_GAN
-git clone https://github.com/RnR-2018/BMEN4460-NB2-image_classification_on_MNIST_data/
+git clone https://github.com/RnR-2018/RnR-2018-BMEN4460-NB4-GAN_faking_MNIST_images/
 ```
 
 If it says "fatal: could not create work tree dir ...", you may as well try it again with super user permission
