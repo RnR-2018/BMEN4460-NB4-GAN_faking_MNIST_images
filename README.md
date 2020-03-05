@@ -1,2 +1,1 @@
 # RnR-2018-BMEN4460-NB3-GAN_faking_MNIST_images
-# RnR-2018-BMEN4460-NB3-GAN_faking_MNIST_images
