@@ -1,6 +1,6 @@
 # BMEN4460 Notebook 4.
 ## GAN faking MNIST images.
-Nanyan "Rosalie" Zhu and Chen "Raphael" Liu
+Chen "Raphael" Liu and Nanyan "Rosalie" Zhu
 
 ### Notice
 We will update this repository with more detailed explanations and more sophisticated variants ASAP. Currently this repository only contains a simple and working example.
